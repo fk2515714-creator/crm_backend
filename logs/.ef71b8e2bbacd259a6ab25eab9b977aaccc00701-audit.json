@@ -1,0 +1,35 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\HP\\OneDrive\\Desktop\\Crm new\\Server\\logs\\.ef71b8e2bbacd259a6ab25eab9b977aaccc00701-audit.json",
+    "files": [
+        {
+            "date": 1767547403650,
+            "name": "C:\\Users\\HP\\OneDrive\\Desktop\\Crm new\\Server\\logs\\error-2026-01-04.log",
+            "hash": "51a8c48442aecf0d1eca3b9f3f85eaa71ee4a6496dcc599a186e16ff7ff72e8d"
+        },
+        {
+            "date": 1767591121799,
+            "name": "C:\\Users\\HP\\OneDrive\\Desktop\\Crm new\\Server\\logs\\error-2026-01-05.log",
+            "hash": "cc3cfa303ba773fb7631de950589c64989c03d7deb79cfddace7d9ca8f85a2fc"
+        },
+        {
+            "date": 1767690932449,
+            "name": "C:\\Users\\HP\\OneDrive\\Desktop\\Crm new\\Server\\logs\\error-2026-01-06.log",
+            "hash": "7c79e65ffb1bc9154107f9de6a376abe19eb48ce549c8ea6464b007d3bcf90b7"
+        },
+        {
+            "date": 1767774763587,
+            "name": "C:\\Users\\HP\\OneDrive\\Desktop\\Crm new\\Server\\logs\\error-2026-01-07.log",
+            "hash": "747ce80621a57c8f645729bec42588a11317012d517ffd123a4f2b28e2f4b988"
+        },
+        {
+            "date": 1767810795779,
+            "name": "C:\\Users\\HP\\OneDrive\\Desktop\\Crm new\\Server\\logs\\error-2026-01-08.log",
+            "hash": "7f87e8f8491c94b72483e74f1a06bc74d6613cd58b35279722dd5f58bc1ee238"
+        }
+    ],
+    "hashType": "sha256"
+}

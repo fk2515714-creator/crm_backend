@@ -1,0 +1,120 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "/Users/rajat/AjayBharoja/Brillica Services/crmProject/Server/logs/.ecb646b2a829a2094150e2c0647ac0955876e5d1-audit.json",
+    "files": [
+        {
+            "date": 1765021390078,
+            "name": "/Users/rajat/AjayBharoja/Brillica Services/crmProject/Server/logs/combined-2025-12-06.log",
+            "hash": "dd10cca7fc94b756531f82bb8142ac3a3a144322c107dce35193c5fe8f29157a"
+        },
+        {
+            "date": 1765101621039,
+            "name": "/Users/rajat/AjayBharoja/Brillica Services/crmProject/Server/logs/combined-2025-12-07.log",
+            "hash": "8fc15c8aa3f0f3099c4eff5ee45faed4b7d9ce977b554c58cd026af573045193"
+        },
+        {
+            "date": 1765195947336,
+            "name": "/Users/rajat/AjayBharoja/Brillica Services/crmProject/Server/logs/combined-2025-12-08.log",
+            "hash": "8e2ac1a435b7fb3cdb59018add42343d796f3ff0e1ea74b8272b974ba9c2835f"
+        },
+        {
+            "date": 1765286497792,
+            "name": "/Users/rajat/AjayBharoja/Brillica Services/crmProject/Server/logs/combined-2025-12-09.log",
+            "hash": "fb80310fe518ed12ccc97441ba378caff51f650408eba83698021e2976b224ec"
+        },
+        {
+            "date": 1765363644585,
+            "name": "/Users/rajat/AjayBharoja/Brillica Services/crmProject/Server/logs/combined-2025-12-10.log",
+            "hash": "7172d21f04ba480f7a8b882af49d8b4227388eae34606a9331b61bf6900e98c2"
+        },
+        {
+            "date": 1765391460806,
+            "name": "/Users/rajat/AjayBharoja/Brillica Services/crmProject/Server/logs/combined-2025-12-11.log",
+            "hash": "545351134df7480e6fcb343766b19cc25c7b1fecd6996fb459296663a70728d6"
+        },
+        {
+            "date": 1765503048437,
+            "name": "/Users/rajat/AjayBharoja/Brillica Services/crmProject/Server/logs/combined-2025-12-12.log",
+            "hash": "908fb31e6a277a6b1fdee15545df5b1321feca260857ac6cc7ab941e1efa8003"
+        },
+        {
+            "date": 1765564349503,
+            "name": "/Users/rajat/AjayBharoja/Brillica Services/crmProject/Server/logs/combined-2025-12-13.log",
+            "hash": "881b6a2c92617e884a64274a892160f5cff6229e410510cf030b7b32bf1f8aee"
+        },
+        {
+            "date": 1765732592480,
+            "name": "/Users/rajat/AjayBharoja/Brillica Services/crmProject/Server/logs/combined-2025-12-14.log",
+            "hash": "509e29a93aa80a2a340fa17be0c4a552dcbab42087218ce0456496abb05f57ca"
+        },
+        {
+            "date": 1765738019277,
+            "name": "/Users/rajat/AjayBharoja/Brillica Services/crmProject/Server/logs/combined-2025-12-15.log",
+            "hash": "35a0ccc80b0eac6b572461f5a539463431d1484ae85c49ba488ef4571aa256bf"
+        },
+        {
+            "date": 1765881790540,
+            "name": "/Users/rajat/AjayBharoja/Brillica Services/crmProject/Server/logs/combined-2025-12-16.log",
+            "hash": "5d0799ec1c4ab512c40d6edf083387437b3e46e831f6d8215659b91b4468d5e3"
+        },
+        {
+            "date": 1765938587390,
+            "name": "/Users/rajat/AjayBharoja/Brillica Services/crmProject/Server/logs/combined-2025-12-17.log",
+            "hash": "a193c790308b5f11d81220aeec6e2afb38e4fa6bf7803705146d697475fc2e3e"
+        },
+        {
+            "date": 1765996478030,
+            "name": "/Users/rajat/AjayBharoja/Brillica Services/crmProject/Server/logs/combined-2025-12-18.log",
+            "hash": "c30323a9e6a332e7b7ca66429d9260704a56c62dbc7b852d9b768ec05184f596"
+        },
+        {
+            "date": 1766149679937,
+            "name": "/Users/rajat/AjayBharoja/Brillica Services/crmProject/Server/logs/combined-2025-12-19.log",
+            "hash": "e57e760df3c52e407eece1624632ebfd0e493decd41e03dc03efb7377a5f8557"
+        },
+        {
+            "date": 1766233010122,
+            "name": "/Users/rajat/AjayBharoja/Brillica Services/crmProject/Server/logs/combined-2025-12-20.log",
+            "hash": "c91728180d10aef27439e5a70acee08e9884c1b8010966726ec7cc814a9785e9"
+        },
+        {
+            "date": 1766404024309,
+            "name": "/Users/rajat/AjayBharoja/Brillica Services/crmProject/Server/logs/combined-2025-12-22.log",
+            "hash": "5961cb0176d56e5ff7ed44b9e2cc469bd7f7f41b3cf8a052672865306d0dcce3"
+        },
+        {
+            "date": 1766454841247,
+            "name": "/Users/rajat/AjayBharoja/Brillica Services/crmProject/Server/logs/combined-2025-12-23.log",
+            "hash": "a3cc2bd8e835c67abf7db5b5b5fb8765a6e152cdbfb8f4b90a8abc0fc8f6f697"
+        },
+        {
+            "date": 1766661158969,
+            "name": "/Users/rajat/AjayBharoja/Brillica Services/crmProject/Server/logs/combined-2025-12-25.log",
+            "hash": "7786a615cc0688f5ab29969fa9534b24ca7a809853c60285fb5a6d153822d35e"
+        },
+        {
+            "date": 1766715479257,
+            "name": "/Users/rajat/AjayBharoja/Brillica Services/crmProject/Server/logs/combined-2025-12-26.log",
+            "hash": "068a6dc29c4c8017e0cc816ebfb1aa160d525ffc0c1c36dcaf32c59959670ca4"
+        },
+        {
+            "date": 1766807182928,
+            "name": "/Users/rajat/AjayBharoja/Brillica Services/crmProject/Server/logs/combined-2025-12-27.log",
+            "hash": "a46259337b92e2bf6515e3b92a2a0a70f4edfb963ac57a6a22c837b9ecedc1db"
+        },
+        {
+            "date": 1766942391896,
+            "name": "/Users/rajat/AjayBharoja/Brillica Services/crmProject/Server/logs/combined-2025-12-28.log",
+            "hash": "5f26b5b24f6c8b419ffd446cf4ce3e38b7f5130daa50d3050a3a8b89d7f5c6b7"
+        },
+        {
+            "date": 1767058297184,
+            "name": "/Users/rajat/AjayBharoja/Brillica Services/crmProject/Server/logs/combined-2025-12-30.log",
+            "hash": "8b5be03dc5685784e6fcb4fa28b4a5bd39eb71439e8a00ea5d6d990cf00fedf5"
+        }
+    ],
+    "hashType": "sha256"
+}

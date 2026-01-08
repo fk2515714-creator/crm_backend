@@ -1,0 +1,11 @@
+Name: Priya Malhotra
+Email: priyacounsellor98@yahoo.com
+Phone: 9876123450
+Role: counseller
+Password: Priya@2024
+
+Name: Saloni Mehra
+Email: saloni.counsellor11@gmail.com
+Phone: 9098765432
+Role: counseller
+Password: Saloni@1122

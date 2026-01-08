@@ -1,0 +1,5 @@
+{"duration":"10ms","ip":"::1","level":"info","message":"HTTP Request Log","method":"OPTIONS","statusCode":204,"timestamp":"2025-12-08 19:16:09","url":"/api/login"}
+{"duration":"153ms","ip":"::1","level":"info","message":"HTTP Request Log","method":"POST","statusCode":200,"timestamp":"2025-12-08 19:16:09","url":"/api/login"}
+{"duration":"1ms","ip":"::1","level":"info","message":"HTTP Request Log","method":"OPTIONS","statusCode":204,"timestamp":"2025-12-08 19:16:09","url":"/api/user/692d97699132c8c102463bf8"}
+{"duration":"47ms","ip":"::1","level":"info","message":"HTTP Request Log","method":"GET","statusCode":304,"timestamp":"2025-12-08 19:16:09","url":"/api/user/692d97699132c8c102463bf8"}
+{"duration":"48ms","ip":"::1","level":"info","message":"HTTP Request Log","method":"GET","statusCode":304,"timestamp":"2025-12-08 19:16:09","url":"/api/user/692d97699132c8c102463bf8"}

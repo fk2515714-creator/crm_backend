@@ -1,0 +1,115 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "/Users/rajat/AjayBharoja/Brillica Services/crmProject/Server/logs/.f51e3760d6344ad53a83dfff82ccd37e9fdf74dc-audit.json",
+    "files": [
+        {
+            "date": 1765021390079,
+            "name": "/Users/rajat/AjayBharoja/Brillica Services/crmProject/Server/logs/error-2025-12-06.log",
+            "hash": "44b953396ded16980795b3b2cee7b96ebdd3460f46d864eb531361de590ae3c7"
+        },
+        {
+            "date": 1765101621040,
+            "name": "/Users/rajat/AjayBharoja/Brillica Services/crmProject/Server/logs/error-2025-12-07.log",
+            "hash": "bcdbeefbadda092bc142222c6a1ca840c05eac8a9c0d9a4e34ed320ab330e9d7"
+        },
+        {
+            "date": 1765195947338,
+            "name": "/Users/rajat/AjayBharoja/Brillica Services/crmProject/Server/logs/error-2025-12-08.log",
+            "hash": "4334f554ba98bf70bf30522136035752d186f65126bf9031a4aa118b0e44eaae"
+        },
+        {
+            "date": 1765286497793,
+            "name": "/Users/rajat/AjayBharoja/Brillica Services/crmProject/Server/logs/error-2025-12-09.log",
+            "hash": "a237d95bec671648478bc61f2ce91b8c8583082d858c03e8427333d58af2e168"
+        },
+        {
+            "date": 1765363644586,
+            "name": "/Users/rajat/AjayBharoja/Brillica Services/crmProject/Server/logs/error-2025-12-10.log",
+            "hash": "1b63020cc5a93964c13d0a85bdf64a13a622ab90e7313557f6d18eb395e7a48c"
+        },
+        {
+            "date": 1765422550441,
+            "name": "/Users/rajat/AjayBharoja/Brillica Services/crmProject/Server/logs/error-2025-12-11.log",
+            "hash": "53d5eba7d644e59aa57d9e75863deed4b39c037a2cdf837215cbd16e163d6ff1"
+        },
+        {
+            "date": 1765503048438,
+            "name": "/Users/rajat/AjayBharoja/Brillica Services/crmProject/Server/logs/error-2025-12-12.log",
+            "hash": "7f4a4cfba2b51d3c3ac1dc317e0b28cd76a8425410d656019bb99bb42b47c461"
+        },
+        {
+            "date": 1765565434670,
+            "name": "/Users/rajat/AjayBharoja/Brillica Services/crmProject/Server/logs/error-2025-12-13.log",
+            "hash": "e93603c1a7c32bdfb51cb1b2b706b5aecb9cebc3f304a47e26eff69db70bcaea"
+        },
+        {
+            "date": 1765732592481,
+            "name": "/Users/rajat/AjayBharoja/Brillica Services/crmProject/Server/logs/error-2025-12-14.log",
+            "hash": "514b0a25ec3267f2dcf44f6df8087567599d9422f958542d5b7fee0995a2d88e"
+        },
+        {
+            "date": 1765881790541,
+            "name": "/Users/rajat/AjayBharoja/Brillica Services/crmProject/Server/logs/error-2025-12-16.log",
+            "hash": "1930cf006d2db87e95a0d86c15387b2e33d462414b1c4b2e4df667d842419eb8"
+        },
+        {
+            "date": 1765938587392,
+            "name": "/Users/rajat/AjayBharoja/Brillica Services/crmProject/Server/logs/error-2025-12-17.log",
+            "hash": "0311e550c2cbec08a875979944df2c14cb4085cc585964417e95c798cba40e27"
+        },
+        {
+            "date": 1765997089205,
+            "name": "/Users/rajat/AjayBharoja/Brillica Services/crmProject/Server/logs/error-2025-12-18.log",
+            "hash": "2359127a1c7a4c51dd66bac5045d455179056b1d4571bf6b526e0c9899b1880d"
+        },
+        {
+            "date": 1766149679939,
+            "name": "/Users/rajat/AjayBharoja/Brillica Services/crmProject/Server/logs/error-2025-12-19.log",
+            "hash": "44d6db738be03a37a8a580b70360d9a74812d5bbfb0042b70707386465a14c15"
+        },
+        {
+            "date": 1766233010124,
+            "name": "/Users/rajat/AjayBharoja/Brillica Services/crmProject/Server/logs/error-2025-12-20.log",
+            "hash": "2df314309509f338bbce8e3bd175ac945d5f32b6136b6978ef7cb6ba75f36f84"
+        },
+        {
+            "date": 1766404024311,
+            "name": "/Users/rajat/AjayBharoja/Brillica Services/crmProject/Server/logs/error-2025-12-22.log",
+            "hash": "40a8cba95d9af1ea9be593939c0bf2e7eaf9a7fe5f6bbc206ce8c5bfef6afbbb"
+        },
+        {
+            "date": 1766454841248,
+            "name": "/Users/rajat/AjayBharoja/Brillica Services/crmProject/Server/logs/error-2025-12-23.log",
+            "hash": "15d1c64487cc001794d77d2583457de41af9a63d5e99ab1170e00a139adec5b0"
+        },
+        {
+            "date": 1766661158971,
+            "name": "/Users/rajat/AjayBharoja/Brillica Services/crmProject/Server/logs/error-2025-12-25.log",
+            "hash": "d0ec33afffdb91ce716ed3f631a9a9c70839356836c8c077a36c7e681556237b"
+        },
+        {
+            "date": 1766715479258,
+            "name": "/Users/rajat/AjayBharoja/Brillica Services/crmProject/Server/logs/error-2025-12-26.log",
+            "hash": "37e03752cf0cca1dd815153cd39fe2226c06676a9b890b3da8f59f3d4888c571"
+        },
+        {
+            "date": 1766807182929,
+            "name": "/Users/rajat/AjayBharoja/Brillica Services/crmProject/Server/logs/error-2025-12-27.log",
+            "hash": "b21e8291e2e34bec7b229758ea57fb5a79e1f88224a446dea5fccdd01c1dc901"
+        },
+        {
+            "date": 1766942391898,
+            "name": "/Users/rajat/AjayBharoja/Brillica Services/crmProject/Server/logs/error-2025-12-28.log",
+            "hash": "6bc1e5fe65175ce72dff09f6b0ae409c9e51d89c894fe1d60ae6b75c59800106"
+        },
+        {
+            "date": 1767058297185,
+            "name": "/Users/rajat/AjayBharoja/Brillica Services/crmProject/Server/logs/error-2025-12-30.log",
+            "hash": "cd1c048c4964d4948d4014d1c75eb9d16fb44d648872140b7b79efe0ebc2394e"
+        }
+    ],
+    "hashType": "sha256"
+}

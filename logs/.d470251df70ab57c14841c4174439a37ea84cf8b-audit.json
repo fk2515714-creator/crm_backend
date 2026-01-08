@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "/Users/rajat/Desktop/crmProject/Server/logs/.d470251df70ab57c14841c4174439a37ea84cf8b-audit.json",
+    "files": [
+        {
+            "date": 1766942052593,
+            "name": "/Users/rajat/Desktop/crmProject/Server/logs/combined-2025-12-28.log",
+            "hash": "ba416ec35f440f02c07b8bc9ce80b58dfa6c7960f46536bb6ea0cec737e24c22"
+        }
+    ],
+    "hashType": "sha256"
+}
