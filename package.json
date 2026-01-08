@@ -2,10 +2,9 @@
   "name": "server",
   "version": "1.0.0",
   "type": "module",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node index.js",
-    "dev": "nodemon index.js"
+    "start": "node server.js"
   },
   "engines": {
     "node": ">=18"
@@ -25,8 +24,5 @@
     "nodemailer": "^7.0.11",
     "winston": "^3.18.3",
     "winston-daily-rotate-file": "^5.0.0"
-  },
-  "devDependencies": {
-    "nodemon": "^3.0.3"
   }
 }
